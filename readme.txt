@@ -1,0 +1,2 @@
+This is a demonstration of phase retrieval, namely, to reconstruct an image given the intensity image of its Fourier transfrom.
+The method used is Hybrid Input-Ouput (HIO) and Error-reduction, which are dreived from the Gerchberg–Saxton algorithm.
